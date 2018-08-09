@@ -5,9 +5,9 @@ body {
     background-size: cover;	
     color: #fff; 
     /*font-family: 'Montserrat', sans-serif;*/
-    background-image: url(../images/laptop.png);
-    background-color: #C0C0C0;
-    font-family: 'Shadows Into Light', cursive;
+    background-image: url(../images/finalbg.png);
+    background-color: #000000;
+    font-family: 'Nanum Gothic Coding', monospace;
 
 
 }
@@ -18,12 +18,13 @@ h1	{
 	 background-color: #0;
 	 text-transform: uppercase;
 	 letter-spacing: 5px;
+	 color: white;
 }
 
 h2	{
 	 text-transform: uppercase;
 	 letter-spacing: 5px;
-	 color: black;
+	 color: white;
 }
 
 #me {
@@ -40,8 +41,10 @@ h2	{
 	width: 100%;
     font-size: 18px;
     line-height: 1.5;
-    background-color: rgba(51,51,51,0.25);
-    font-family: 'Raleway', sans-serif;
+    /*background-color: rgba(51,51,51,0.75);*/
+    /*font-family: 'Raleway', sans-serif;*/
+    font-family: 'Nanum Gothic Coding', monospace;
+
 }
 
 .container {
